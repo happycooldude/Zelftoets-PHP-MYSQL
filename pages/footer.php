@@ -1,0 +1,1 @@
+<p>&copy; Pieter Huisman <?=date('Y')?></p>
